@@ -78,6 +78,8 @@ You can show your support via:
   - Bolt  
   - RooCode
   - Lumo
+- **DirecSplit Folder**
+  - A prompt for an AI video editing tool that uses the Shotstack API to split a video into meaningful chunks.
 
 ---
 
